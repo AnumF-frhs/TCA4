@@ -11,7 +11,7 @@ li {
 a {
   display: block;
   padding: 8px;
-  background-color: #dfdbdb;
+  background-color: #FFFFFF;
 }
 
 .bw {
@@ -29,4 +29,20 @@ a {
 
 .row-s3 {
     background-color: #10C9C3
+}
+
+.h1,h2, p{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.p {
+    color: #787878;
+}
+
+
+btn-info {
+    color: #10C9C3;
 }
