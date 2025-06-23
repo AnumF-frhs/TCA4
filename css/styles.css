@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+  float:right;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dfdbdb;
+}
+
+.bw {
+    height: 900px;
+    background-image: url('../img/folder/computer.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-fluid {
+    width: 30%;
+    position: center;
+}
+
+.row-s3 {
+    background-color: #10C9C3
+}
